@@ -1,0 +1,19 @@
+{
+    "test": "test",
+    "password": "ZarkeysonxD1!",
+    "username": "Zarko123",
+    "emptyString": "",
+    "successfulLoginStatus": "Success",
+    "successfulLoginResult": "User authorized successfully.",
+    "unsuccessfulLoginStatus": "Failed",
+    "messageLogin":"UserName and Password required.",
+    "resultLogin": "User authorization failed.",
+    "newUsername": "zarko2706",
+    "bad_flow_newUsername": "zarko1",
+    "messageBadRegistration": "UserName and Password required.",
+    "invalidPasswordLength": "Zarko1!",
+    "existing_user_Username": "zarko1234",
+    "userId": "636aaff1-9734-414a-bdc4-4adbb39a2b1f",
+    "status201": 201,
+    "status401": 401
+}
